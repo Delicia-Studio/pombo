@@ -4,14 +4,15 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public GameObject poopPrefab;
-    public Transform poopSpawnPoint;
 
     private Rigidbody2D rb;
     private Vector2 moveInput;
+    private SpriteRenderer spriteRenderer;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         if (rb == null)
         {
             Debug.LogError("O Pombo precisa de um Rigidbody2D!");
@@ -34,18 +35,31 @@ public class PlayerController : MonoBehaviour
         {
             DropPoop();
         }
+
+        if (moveX > 0)
+        {
+            // Garante que o sprite não está espelhado (virado para a direita)
+            spriteRenderer.flipX = false;
+        }
+        // Se o input for para a esquerda (menor que 0)
+        else if (moveX < 0)
+        {
+            // Espelha o sprite no eixo X (virado para a esquerda)
+            spriteRenderer.flipX = true;
+        }
     }
 
     private void FixedUpdate()
     {
         if (rb != null)
         {
-            rb.velocity = moveInput * moveSpeed;
+            rb.linearVelocity = moveInput * moveSpeed;
         }
     }
 
     void DropPoop()
     {
-        Instantiate(poopPrefab, poopSpawnPoint.position, Quaternion.identity);
+        Vector3 spawnPosition = new Vector3(transform.position.x - 0.2f, transform.position.y - 0.2f, transform.position.z + 1);
+        Instantiate(poopPrefab, spawnPosition, Quaternion.identity);
     }
 }

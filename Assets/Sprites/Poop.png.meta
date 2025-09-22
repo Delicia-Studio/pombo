@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 7785e66e47fe0654393adc9fd3698f13
+guid: 304ba37baea442248b53e3bcd7d35b8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1433572913123438110
-    second: AJfQ9KTtEPcrY-ePiWFQWg64cXDsBSWRK2m-Bui20om8ZxDHf-zboJNWDiDPddDCgLrx2h55SPiDlOyd7KN6P1xvkOUFJpjSZmd75u0bK_FA02L-uBjLFJiPFueQr9Gm8ciYqX5R33_AKLK92u8Urd90iZW7iqZa9vg8bcu3BAPsPTpp8cpRyws1024_0
+      213: -7904169103184799286
+    second: coco_de_pombo1.953Z-removebg-preview_0
+  - first:
+      213: 5483866990290749533
+    second: coco_de_pombo1.953Z-removebg-preview_1
+  - first:
+      213: -6570677275613644249
+    second: coco_de_pombo1.953Z-removebg-preview_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AJfQ9KTtEPcrY-ePiWFQWg64cXDsBSWRK2m-Bui20om8ZxDHf-zboJNWDiDPddDCgLrx2h55SPiDlOyd7KN6P1xvkOUFJpjSZmd75u0bK_FA02L-uBjLFJiPFueQr9Gm8ciYqX5R33_AKLK92u8Urd90iZW7iqZa9vg8bcu3BAPsPTpp8cpRyws1024_0
+      name: coco_de_pombo1.953Z-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
+        x: 3
+        y: 25
+        width: 15
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1e285618f215e310800000000000000
-      internalID: 1433572913123438110
+      spriteID: ac95d082410ce4290800000000000000
+      internalID: -7904169103184799286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_de_pombo1.953Z-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5845cf09fb9a1c40800000000000000
+      internalID: 5483866990290749533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_de_pombo1.953Z-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a315da4d340d4a0800000000000000
+      internalID: -6570677275613644249
       vertices: []
       indices: 
       edges: []
@@ -125,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AJfQ9KTtEPcrY-ePiWFQWg64cXDsBSWRK2m-Bui20om8ZxDHf-zboJNWDiDPddDCgLrx2h55SPiDlOyd7KN6P1xvkOUFJpjSZmd75u0bK_FA02L-uBjLFJiPFueQr9Gm8ciYqX5R33_AKLK92u8Urd90iZW7iqZa9vg8bcu3BAPsPTpp8cpRyws1024_0: 1433572913123438110
+      coco_de_pombo1.953Z-removebg-preview_0: -7904169103184799286
+      coco_de_pombo1.953Z-removebg-preview_1: 5483866990290749533
+      coco_de_pombo1.953Z-removebg-preview_2: -6570677275613644249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

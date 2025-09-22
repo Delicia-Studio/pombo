@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 5a46dc697b3354c46bce180b97468962
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5076991781284350005
+    second: Man Walking_0
+  - first:
+      213: 3883791523574520792
+    second: Man Walking_1
+  - first:
+      213: -8311655139223047161
+    second: Man Walking_2
+  - first:
+      213: 6528375131222242457
+    second: Man Walking_3
+  - first:
+      213: 6887129877402994503
+    second: Man Walking_4
+  - first:
+      213: 4072567078714327792
+    second: Man Walking_5
+  - first:
+      213: -6808844358028655358
+    second: Man Walking_6
+  - first:
+      213: -9030441909965338732
+    second: Man Walking_7
+  - first:
+      213: 1398116616548795326
+    second: Man Walking_8
+  - first:
+      213: 8321993045269323994
+    second: Man Walking_9
+  - first:
+      213: 7591550619281965845
+    second: Man Walking_10
+  - first:
+      213: 3730972276741923968
+    second: Man Walking_11
+  - first:
+      213: -4222579249994956466
+    second: Man Walking_12
+  - first:
+      213: 6373856466066258838
+    second: Man Walking_13
+  - first:
+      213: -759359602472186250
+    second: Man Walking_14
+  - first:
+      213: -2473344752470369344
+    second: Man Walking_15
+  - first:
+      213: 7464626082549818046
+    second: Man Walking_16
+  - first:
+      213: -2784589799033789429
+    second: Man Walking_17
+  - first:
+      213: -7240243415882859475
+    second: Man Walking_18
+  - first:
+      213: 2937066092312384629
+    second: Man Walking_19
+  - first:
+      213: 3709522502976002176
+    second: Man Walking_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Man Walking_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7f7fcbfd6ea89b0800000000000000
+      internalID: -5076991781284350005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 265
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db155040dff5e530800000000000000
+      internalID: 3883791523574520792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 264
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047f0b10b117ac80800000000000000
+      internalID: -8311655139223047161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 266
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994fef0d792799a50800000000000000
+      internalID: 6528375131222242457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747c5984220049f50800000000000000
+      internalID: 6887129877402994503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 265
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2c7b24e2aa48830800000000000000
+      internalID: 4072567078714327792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 265
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20587c491202281a0800000000000000
+      internalID: -6808844358028655358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 265
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49747bf9dec6da280800000000000000
+      internalID: -9030441909965338732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 146
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb346fbb7ab176310800000000000000
+      internalID: 1398116616548795326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 147
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0ac863598ad7370800000000000000
+      internalID: 8321993045269323994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 146
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c2b4011b9a5960800000000000000
+      internalID: 7591550619281965845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 147
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846806a48317c330800000000000000
+      internalID: 3730972276741923968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 147
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e418d185b826665c0800000000000000
+      internalID: -4222579249994956466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 147
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bb43d8fac747850800000000000000
+      internalID: 6373856466066258838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 149
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0dddf6763675f0800000000000000
+      internalID: -759359602472186250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 149
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5ded4d0aecadd0800000000000000
+      internalID: -2473344752470369344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26f7f6fdda79760800000000000000
+      internalID: 7464626082549818046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 15
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b042a67c4562b59d0800000000000000
+      internalID: -2784589799033789429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf0f449fc758b90800000000000000
+      internalID: -7240243415882859475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 19
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574df1abc0e82c820800000000000000
+      internalID: 2937066092312384629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man Walking_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d334001fda7330800000000000000
+      internalID: 3709522502976002176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Man Walking_0: -5076991781284350005
+      Man Walking_1: 3883791523574520792
+      Man Walking_10: 7591550619281965845
+      Man Walking_11: 3730972276741923968
+      Man Walking_12: -4222579249994956466
+      Man Walking_13: 6373856466066258838
+      Man Walking_14: -759359602472186250
+      Man Walking_15: -2473344752470369344
+      Man Walking_16: 7464626082549818046
+      Man Walking_17: -2784589799033789429
+      Man Walking_18: -7240243415882859475
+      Man Walking_19: 2937066092312384629
+      Man Walking_2: -8311655139223047161
+      Man Walking_20: 3709522502976002176
+      Man Walking_3: 6528375131222242457
+      Man Walking_4: 6887129877402994503
+      Man Walking_5: 4072567078714327792
+      Man Walking_6: -6808844358028655358
+      Man Walking_7: -9030441909965338732
+      Man Walking_8: 1398116616548795326
+      Man Walking_9: 8321993045269323994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
